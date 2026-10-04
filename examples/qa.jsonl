@@ -1,0 +1,16 @@
+{"question": "How much does the Team plan cost per seat?", "relevant": ["billing.md#Plans"]}
+{"question": "Can I get a refund on a monthly plan?", "relevant": ["billing.md#Refunds"]}
+{"question": "What happens when I hit my spending cap?", "relevant": ["billing.md#Spending limits"]}
+{"question": "Which encryption is used for data at rest?", "relevant": ["security.md#Encryption"]}
+{"question": "Which identity providers work with SSO?", "relevant": ["security.md#Single sign-on"]}
+{"question": "Where do I report a security vulnerability?", "relevant": ["security.md#Reporting a vulnerability"]}
+{"question": "What should my client do after a 429 Too Many Requests error?", "relevant": ["api-limits.md#Handling 429 responses"]}
+{"question": "How many requests per minute can a Starter token make?", "relevant": ["api-limits.md#Default limits"]}
+{"question": "How do I install the command line tool?", "relevant": ["onboarding.md#Install the CLI"]}
+{"question": "How do I promote a preview deployment to production?", "relevant": ["onboarding.md#Deploy your first app"]}
+{"question": "What does SEV1 mean?", "relevant": ["incidents.md#Severity levels"]}
+{"question": "What service credits do I get if uptime is missed?", "relevant": ["incidents.md#Uptime commitments"]}
+{"question": "How long are application logs kept on the Team plan?", "relevant": ["data-retention.md#Log retention"]}
+{"question": "How long are database backups retained?", "relevant": ["data-retention.md#Backups"]}
+{"question": "Which regions keep my data in Europe?", "relevant": ["data-retention.md#Data residency"]}
+{"question": "Is my data recoverable after deleting a workspace?", "relevant": ["data-retention.md#Deleting your data"]}
